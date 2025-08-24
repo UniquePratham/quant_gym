@@ -152,13 +152,6 @@ quant-trading-gym/
 
 ---
 
-## 👥 Contributors
-
-* [Your Name](https://github.com/yourusername)
-* Add your teammates here
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
