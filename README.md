@@ -1,5 +1,3 @@
----
-
 # 📈 Quant Trading Gym
 
 > **A Robotic Playground for Algorithmic Trading Strategies** 🤖➡️📊➡️💰
@@ -158,7 +156,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙋 Need Help?
 
-Open an issue or reach out at **[your.email@example.com](mailto:your.email@example.com)**
+Open an issue or reach out at **[gargpratham71@gmail.com](mailto:gargpratham71@gmail.com)**
 
 ⭐ **Star this repo if you found it useful for your hackathon!**
 
