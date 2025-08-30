@@ -1,5 +1,3 @@
-Here’s a cleaned-up, polished version of your README with consistency fixes, formatting improvements, and typo corrections:
-
 ---
 
 # 📈 Quant Trading Gym
